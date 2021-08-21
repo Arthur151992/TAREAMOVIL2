@@ -1,0 +1,16 @@
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\obj\Debug\netstandard2.0\datos.xaml.g.cs
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\obj\Debug\netstandard2.0\Inicio.xaml.g.cs
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\obj\Debug\netstandard2.0\tareacrudsqlite.AssemblyInfoInputs.cache
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\obj\Debug\netstandard2.0\tareacrudsqlite.AssemblyInfo.cs
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\obj\Debug\netstandard2.0\tareacrudsqlite.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\obj\Debug\netstandard2.0\tareacrudsqlite.dll
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\obj\Debug\netstandard2.0\ref\tareacrudsqlite.dll
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\obj\Debug\netstandard2.0\tareacrudsqlite.pdb
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\bin\Debug\netstandard2.0\tareacrudsqlite.deps.json
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\bin\Debug\netstandard2.0\tareacrudsqlite.dll
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\bin\Debug\netstandard2.0\ref\tareacrudsqlite.dll
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\bin\Debug\netstandard2.0\tareacrudsqlite.pdb
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\obj\Debug\netstandard2.0\tareacrudsqlite.csproj.AssemblyReference.cache
+C:\Users\hecto\source\repos\tareacrudsqlite\tareacrudsqlite\tareacrudsqlite\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tareacrudsqlite.Android", "tareacrudsqlite\tareacrudsqlite.Android\tareacrudsqlite.Android.csproj", "{C3CEB5E6-9B47-46CB-B0A5-943147BE714B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tareacrudsqlite", "tareacrudsqlite\tareacrudsqlite\tareacrudsqlite.csproj", "{858102C0-9F40-4646-BC94-2ABD53E5F478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3CEB5E6-9B47-46CB-B0A5-943147BE714B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CEB5E6-9B47-46CB-B0A5-943147BE714B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CEB5E6-9B47-46CB-B0A5-943147BE714B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C3CEB5E6-9B47-46CB-B0A5-943147BE714B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CEB5E6-9B47-46CB-B0A5-943147BE714B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3CEB5E6-9B47-46CB-B0A5-943147BE714B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{858102C0-9F40-4646-BC94-2ABD53E5F478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858102C0-9F40-4646-BC94-2ABD53E5F478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858102C0-9F40-4646-BC94-2ABD53E5F478}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{858102C0-9F40-4646-BC94-2ABD53E5F478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858102C0-9F40-4646-BC94-2ABD53E5F478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858102C0-9F40-4646-BC94-2ABD53E5F478}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D23BB5DC-1D3A-468D-A13B-80B203797707}
+	EndGlobalSection
+EndGlobal
